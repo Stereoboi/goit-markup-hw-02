@@ -179,7 +179,9 @@ footer .logo {
 .projects-list,
 .about-list,
 .filter-list,
-.card-list {
+.card-list,
+.footer-info,
+.contacts {
   list-style-type: none;
 }
 
